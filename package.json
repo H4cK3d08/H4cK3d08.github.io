@@ -1,0 +1,25 @@
+{
+  "name": "yt-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@distube/ytdl-core": "^4.16.12",
+    "express": "^5.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/H4cK3d08/H4cK3d08.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/H4cK3d08/H4cK3d08.github.io/issues"
+  },
+  "homepage": "https://github.com/H4cK3d08/H4cK3d08.github.io#readme"
+}
